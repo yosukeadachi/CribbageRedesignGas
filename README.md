@@ -1,0 +1,2 @@
+# CribbageRedesignGas
+クリベッジ　リデザイン　GASで
